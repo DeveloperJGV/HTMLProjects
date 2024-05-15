@@ -13,12 +13,16 @@ El meme de "Pedro" se ha popularizado en TikTok y otras plataformas sociales, y 
 
 ## Vista Previa del Proyecto
 
-!Vista Previa
+![Vista Previa](url-de-la-imagen)
 
 ## Cómo Usar
 
 Para ver este ejercicio en acción, simplemente clona el repositorio y abre el archivo `index.html` en tu navegador.
 
-```bash
-git clone url-de-tu-repositorio
-cd nombre-de-tu-repositorio
+## Contribuciones
+
+Las contribuciones son bienvenidas. Si tienes alguna idea para mejorar el ejercicio o agregar nuevas funcionalidades, no dudes en crear un 'pull request'.
+
+## Licencia
+
+Este proyecto está bajo la Licencia MIT - mira el archivo LICENSE.md para detalles.
