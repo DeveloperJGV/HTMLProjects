@@ -13,7 +13,7 @@ El meme de "Pedro" se ha popularizado en TikTok y otras plataformas sociales, y 
 
 ## Vista Previa del Proyecto
 
-![Vista Previa](url-de-la-imagen)
+![Vista Previa](https://github.com/DeveloperJGV/Pedro-Exercise/blob/main/PedroPedro/PreviewPedro.png?raw=true)
 
 ## Cómo Usar
 
